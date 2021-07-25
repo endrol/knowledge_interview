@@ -1,12 +1,16 @@
-# interview questions
-[Memory leak](#Memory-leak)  
-[Connection pool Timeout](#Connection-pool-Timeout)  
-[Thread Exhausion](#Thread-Exhausion)  
-[How do you know if you can handle 1K requests/s ?](#-How-do-you-know-if-you-can-handle-1K-requests/s-?)  
-[Differences between process and thread?](#Differences-between-process-and-thread?)  
-[Garbage Collection](#-Garbage-Collection)  
-[Stack and Heap](#Stack-and-Heap)  
-[How to communicate between threads and Processes?](#-How-to-communicate-between-threads-and-Processes?)
+# Operating System
+
+- [Operating System](#operating-system)
+    - [Memory leak](#memory-leak)
+    - [Connection pool Timeout](#connection-pool-timeout)
+    - [Thread Exhausion](#thread-exhausion)
+    - [How do you know if you can handle 1K requests/s ?](#how-do-you-know-if-you-can-handle-1k-requestss-)
+    - [Differences between process and thread?](#differences-between-process-and-thread)
+    - [Garbage Collection](#garbage-collection)
+    - [Stack and Heap](#stack-and-heap)
+    - [How to communicate between threads and Processes?](#how-to-communicate-between-threads-and-processes)
+
+
 ### Memory leak  
 1. Graph (CPU usage) increase by time. What cause this and how to solve?
 

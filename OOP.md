@@ -1,9 +1,18 @@
 # Object Oriented Programming
-
-[Benefits of OOP](#-Benefits-of-OOP)  
-[Building Blocks Of OOP](#-Building-Blocks-Of-OOP)  
-[Four Principles of OOP](#Four-Principles-of-OOP)  
-[Interview QA](#-Interview-QA)
+- [Object Oriented Programming](#object-oriented-programming)
+  - [Check this](#check-this)
+  - [Benefits of OOP](#benefits-of-oop)
+  - [Building Blocks Of OOP](#building-blocks-of-oop)
+    - [Classes](#classes)
+    - [Objects](#objects)
+    - [Attributes](#attributes)
+    - [Methods](#methods)
+  - [Four Principles of OOP](#four-principles-of-oop)
+    - [Inheritance](#inheritance)
+    - [Encapsulation](#encapsulation)
+    - [Abstraction](#abstraction)
+    - [Polymorphism](#polymorphism)
+  - [Interview QA](#interview-qa)
 
 ## [Check this](https://www.educative.io/blog/object-oriented-programming#four)
 
