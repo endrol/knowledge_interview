@@ -81,6 +81,7 @@ f-1: $(2*precision*recall) / (precision+recall)$, how well a model retrieves rel
 
 ### Overfitting and Underfitting
 **Underfitting**:  
+the training error and validation error is high
 - more data
 - change algorithms
 - deeper the network
